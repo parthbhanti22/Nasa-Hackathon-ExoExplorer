@@ -1,0 +1,57 @@
+{
+  "features": [
+    "pl_pnum",
+    "ra",
+    "dec",
+    "st_pmra",
+    "st_pmdec",
+    "pl_orbper",
+    "pl_trandurh",
+    "pl_trandep",
+    "pl_rade",
+    "pl_insol",
+    "pl_eqt",
+    "st_tmag",
+    "st_dist",
+    "st_teff",
+    "st_logg",
+    "st_rad",
+    "log_orbper",
+    "depth_per_hour",
+    "snr_proxy",
+    "depth_per_radius",
+    "insol_per_st_radius",
+    "temp_ratio",
+    "log_pl_trandep",
+    "log_pl_rade",
+    "log_pl_insol",
+    "log_st_dist",
+    "log_st_rad",
+    "log_st_tmag",
+    "log_pl_eqt"
+  ],
+  "accuracy": 0.7907431551499348,
+  "macro_precision": 0.682485080059204,
+  "macro_recall": 0.5838337293301653,
+  "macro_f1": 0.6183157157614044,
+  "roc_auc": 0.8473405664170878,
+  "best_params_lgbm": {
+    "n_estimators": 587,
+    "num_leaves": 85,
+    "max_depth": 11,
+    "learning_rate": 0.012834096624334535,
+    "min_child_samples": 30,
+    "subsample": 0.8565682946393213,
+    "colsample_bytree": 0.9128754146079482
+  },
+  "class_order": [
+    "Candidate",
+    "Confirmed",
+    "FalsePositive"
+  ],
+  "per_class_prob_weights": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}
