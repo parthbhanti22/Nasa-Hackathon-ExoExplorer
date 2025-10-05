@@ -231,4 +231,5 @@ if model_path.exists():
             st.image("https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg", caption="Further analysis may be needed.")
 else:
     st.markdown("---")
+
     st.info("Please upload a dataset and train a model to enable the prediction interface.")
