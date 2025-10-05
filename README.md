@@ -2,7 +2,7 @@
 
 Welcome to **ExoVate**, an interactive web platform that brings the science of exoplanet discovery to your fingertips. This project leverages a machine learning model to classify exoplanet candidates from NASA's Kepler mission data and presents it through a rich, educational, and visually stunning user interface.
 
-> *Note: Replace the image link above with a screenshot or GIF of your application!*
+![Alt text](images/screenshot.png)
 
 ---
 
