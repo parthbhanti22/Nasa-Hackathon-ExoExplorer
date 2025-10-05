@@ -38,6 +38,8 @@ This application was built using a modern, high-performance technology stack to 
 * **Styling:** Tailwind CSS
 * **UI Components:** shadcn/ui
 * **Deployment:** Vercel
+* **ML** Scikit-learn Numpy Matplotlib
+* **ML deployment** streamlit
 
 ---
 
@@ -70,6 +72,6 @@ To run this project on your local machine, follow these steps:
 
 ExoVate is an evolving project. Future plans include:
 
-* Integrating new datasets from missions like TESS.
+* Integrating new datasets from missions.
 * Implementing user accounts to track progress and save favorite exoplanets.
 * Enhancing the AI model with more advanced deep learning architectures.
