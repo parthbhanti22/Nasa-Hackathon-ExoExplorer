@@ -31,6 +31,7 @@ ExoVate is more than just a data browser; it's a comprehensive educational tool 
 * 📚 **Encyclopedia:** An integrated knowledge base with information about space missions, scientific terminology, and key astronomical concepts.
 
 ---
+<img src="https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer/blob/main/Picture3.png" alt="Alt text" width="1000">
 
 ## 🛠️ Tech Stack
 
