@@ -27,8 +27,8 @@ This application was built using a modern, high-performance technology stack to 
 # 🔧 Getting Started & Local Development
 To run this project on your local machine, follow these steps:
  * Clone the repository:
-   git clone https://github.com/parthbhanti22/Exoplanet-Classification-Nasa.git
-cd Exoplanet-Classification-Nasa
+   git clone https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer.git
+cd Nasa-Hackathon-ExoExplorer
 
  * Install dependencies:
    This project uses pnpm as the package manager.
