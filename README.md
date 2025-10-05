@@ -2,8 +2,10 @@
 
 Welcome to **ExoVate**, an interactive web platform that brings the science of exoplanet discovery to your fingertips. This project leverages a machine learning model to classify exoplanet candidates from NASA's Kepler mission data and presents it through a rich, educational, and visually stunning user interface.
 
-![Alt text]()
-<img src="https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer/blob/main/Picture1.png" alt="Alt text" width="500">
+<img src="https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer/blob/main/Picture1.png" alt="Alt text" width="800">
+
+<img src="https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer/blob/main/Picture2.png" alt="Alt text" width="800">
+
 
 ---
 
